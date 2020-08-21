@@ -1,0 +1,7 @@
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\obj\Debug\Calculadora delegates.csprojAssemblyReference.cache
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\obj\Debug\Calculadora delegates.csproj.CoreCompileInputs.cache
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\bin\Debug\Calculadora delegates.exe.config
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\bin\Debug\Calculadora delegates.exe
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\bin\Debug\Calculadora delegates.pdb
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\obj\Debug\Calculadora delegates.exe
+C:\Users\assue\Desktop\COISAS FACUL\TAP\Calculadora delegates\Calculadora delegates\obj\Debug\Calculadora delegates.pdb
